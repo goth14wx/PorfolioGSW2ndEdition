@@ -1,7 +1,7 @@
 # PorfolioGSW2ndEdition
 
 > 2nd Portfolio GSW with the topic: azure
-
+es el portafolio #2 de GSW 
 ## Build Setup
 
 ``` bash
